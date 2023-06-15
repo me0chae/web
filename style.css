@@ -1,0 +1,30 @@
+*{margin: 0 auto;padding: 0;}
+body{background-color: black;}
+.bg00
+    {
+    width: 1920px;
+    height: 1080px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    background-attachment: fixed;
+    }
+.bg0a
+{
+    width: 1920px;
+    height: 1080px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    
+    }
+.bg01{background-image: url(img/bg01.png);
+    justify-content: right;
+    align-items: center;
+    }
+.bg04{background-image: url(img/bg04.png);
+    justify-content: center;
+    align-items: center;
+    }
+.bg02{background-image: url(img/bg02.png);}
+.bg03{background-image: url(img/bg03.png);}
